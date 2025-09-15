@@ -37,8 +37,10 @@ We cover:
 ---
 
 ## 📚 Notebooks
+01. [Testing with Concept Activation Vectors (TCAV)](https://github.com/overview-cxai-tutorial-ecml-pkdd-2025/hands-on-cxai-ecml-pkdd/blob/main/notebooks/01_tcav_ecml_pkdd.ipynb)
+02. [Concept Bottleneck Model (CBM)](https://github.com/overview-cxai-tutorial-ecml-pkdd-2025/hands-on-cxai-ecml-pkdd/blob/main/notebooks/02a_cbm.ipynb)
+03. [Interpretable Classification with Label-Free Concept Bottleneck Models (LF-CBM)](https://github.com/overview-cxai-tutorial-ecml-pkdd-2025/hands-on-cxai-ecml-pkdd/blob/main/notebooks/02b_label_free_cbm.ipynb)
 
-Work in progress ... ⚙️
 ---
 
 ## 📋 Instructions
